@@ -9,7 +9,7 @@ assignees:
 sites:
   - name: Grinnode.live Website
     url: https://grinnode.live/
-    icon: https://github.com/Grinnode-live/grinnode-live-frontend/blob/master/public/favicon.ico
+    icon: https://raw.githubusercontent.com/Grinnode-live/grinnode-live-frontend/master/public/favicon.ico
   - name: peers API endpoint
     url: https://grinnode.live:8080/healthcheck
   - name: healthcheck API endpoint
