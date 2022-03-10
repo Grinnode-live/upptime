@@ -9,6 +9,7 @@ assignees:
 sites:
   - name: Grinnode.live Website
     url: https://grinnode.live/
+    icon: https://grinnode.live/favicon
   - name: peers API endpoint
     url: https://grinnode.live:8080/healthcheck
   - name: healthcheck API endpoint
@@ -25,11 +26,13 @@ sites:
     url: https://grinnode.live:8080/api/blockstats
   - name: tx count API endpoint
     url: https://grinnode.live:8080/api/txcounts
-
-
-
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Owner grinnode API endpoint
+    method: POST
+    url : https://grinnode.live:3413/v2/owner
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "id": 1, "jsonrpc": "2.0", "method":" get_status", "params":{}  }'
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
