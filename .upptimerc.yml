@@ -2,9 +2,32 @@
 owner: Grinnode-live # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+assignees:
+  - stakervali
+  - mcm-mike
+
 sites:
   - name: Grinnode.live Website
     url: https://grinnode.live/
+  - name: peers API endpoint
+    url: https://grinnode.live:8080/healthcheck
+  - name: healthcheck API endpoint
+    url: https://grinnode.live:8080/peers
+  - name: agents API endpoint
+    url: https://grinnode.live:8080/agents
+  - name: healthscore API endpoint
+    url: https://grinnode.live:8080/healthscore
+  - name: peerscountries API endpoint
+    url: https://grinnode.live:8080/peerscountries
+  - name: walletcheck API endpoint
+    url: https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y
+  - name: blockstats API endpoint
+    url: https://grinnode.live:8080/api/blockstats
+  - name: tx count API endpoint
+    url: https://grinnode.live:8080/api/txcounts
+
+
+
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -25,3 +48,6 @@ status-website:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+
+ 
