@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 498,
     "timeDay": 421,
-    "timeWeek": 498,
+    "timeWeek": 438,
     "timeMonth": 498,
     "timeYear": 498,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 405,
     "timeDay": 377,
-    "timeWeek": 405,
+    "timeWeek": 389,
     "timeMonth": 405,
     "timeYear": 405,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 201,
     "timeDay": 186,
-    "timeWeek": 201,
+    "timeWeek": 193,
     "timeMonth": 201,
     "timeYear": 201,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 96,
-    "timeWeek": 105,
+    "timeWeek": 101,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 97,
-    "timeWeek": 105,
+    "timeWeek": 101,
     "timeMonth": 105,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 96,
-    "timeWeek": 104,
+    "timeWeek": 100,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {}
@@ -112,18 +112,19 @@
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
-    "uptime": "98.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "98.85%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "98.96%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 1512,
-    "timeDay": 1452,
-    "timeWeek": 1512,
+    "timeDay": 1665,
+    "timeWeek": 1578,
     "timeMonth": 1512,
     "timeYear": 1512,
     "dailyMinutesDown": {
+      "2022-03-17": 0,
       "2022-03-14": 53,
       "2022-03-12": 18,
       "2022-03-11": 33
@@ -142,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 106,
     "timeDay": 99,
-    "timeWeek": 106,
+    "timeWeek": 100,
     "timeMonth": 106,
     "timeYear": 106,
     "dailyMinutesDown": {}
@@ -160,7 +161,7 @@
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 284,
-    "timeWeek": 304,
+    "timeWeek": 293,
     "timeMonth": 304,
     "timeYear": 304,
     "dailyMinutesDown": {}
@@ -178,7 +179,7 @@
     "uptimeYear": "100.00%",
     "time": 379,
     "timeDay": 368,
-    "timeWeek": 379,
+    "timeWeek": 381,
     "timeMonth": 379,
     "timeYear": 379,
     "dailyMinutesDown": {}
