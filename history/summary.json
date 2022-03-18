@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "peers-api-endpoint",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 404,
     "timeDay": 383,
     "timeWeek": 388,
     "timeMonth": 404,
     "timeYear": 404,
-    "dailyMinutesDown": {
-      "2022-03-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "healthcheck API endpoint",
@@ -114,7 +112,7 @@
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.10%",
@@ -126,6 +124,7 @@
     "timeMonth": 1923,
     "timeYear": 1923,
     "dailyMinutesDown": {
+      "2022-03-18": 0,
       "2022-03-17": 19,
       "2022-03-14": 53,
       "2022-03-12": 18,
