@@ -4,10 +4,10 @@
     "url": "https://grinnode.live/",
     "icon": "https://raw.githubusercontent.com/Grinnode-live/grinnode-live-frontend/master/public/favicon.ico",
     "slug": "grinnode-live-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 492,
@@ -15,17 +15,19 @@
     "timeWeek": 451,
     "timeMonth": 492,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "peers API endpoint",
     "url": "https://grinnode.live:8080/healthcheck",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "peers-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 420,
@@ -33,17 +35,19 @@
     "timeWeek": 406,
     "timeMonth": 420,
     "timeYear": 420,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "healthcheck API endpoint",
     "url": "https://grinnode.live:8080/peers",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "healthcheck-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 209,
@@ -51,17 +55,19 @@
     "timeWeek": 200,
     "timeMonth": 209,
     "timeYear": 209,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "agents API endpoint",
     "url": "https://grinnode.live:8080/agents",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "agents-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
@@ -69,17 +75,19 @@
     "timeWeek": 104,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "healthscore API endpoint",
     "url": "https://grinnode.live:8080/healthscore",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "healthscore-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
@@ -87,17 +95,19 @@
     "timeWeek": 104,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "peerscountries API endpoint",
     "url": "https://grinnode.live:8080/peerscountries",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "peerscountries-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
@@ -105,25 +115,28 @@
     "timeWeek": 103,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 1
+    }
   },
   {
     "name": "walletcheck API endpoint",
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
-    "uptime": "98.97%",
-    "uptimeDay": "95.68%",
+    "status": "down",
+    "uptime": "98.98%",
+    "uptimeDay": "95.64%",
     "uptimeWeek": "98.85%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "98.97%",
+    "uptimeMonth": "98.98%",
+    "uptimeYear": "98.98%",
     "time": 1668,
     "timeDay": 945,
     "timeWeek": 1669,
     "timeMonth": 1668,
     "timeYear": 1668,
     "dailyMinutesDown": {
+      "2022-04-10": 1,
       "2022-04-09": 63,
       "2022-04-06": 37,
       "2022-04-03": 16,
@@ -146,9 +159,9 @@
     "url": "https://grinnode.live:8080/api/blockstats",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "blockstats-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -157,16 +170,18 @@
     "timeWeek": 104,
     "timeMonth": 109,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   },
   {
     "name": "tx count API endpoint",
     "url": "https://grinnode.live:8080/api/txcounts",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "tx-count-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,16 +190,18 @@
     "timeWeek": 302,
     "timeMonth": 315,
     "timeYear": 315,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   },
   {
     "name": "Owner grinnode API endpoint",
     "url": "https://grinnode.live:3413/v2/owner",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "owner-grinnode-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -193,6 +210,8 @@
     "timeWeek": 403,
     "timeMonth": 411,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-10": 0
+    }
   }
 ]
