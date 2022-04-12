@@ -22,19 +22,19 @@
     "url": "https://grinnode.live:8080/healthcheck",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "peers-api-endpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 422,
-    "timeDay": 490,
-    "timeWeek": 423,
-    "timeMonth": 423,
-    "timeYear": 422,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 421,
+    "timeDay": 454,
+    "timeWeek": 419,
+    "timeMonth": 422,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2022-04-12": 0
+      "2022-04-12": 17
     }
   },
   {
@@ -122,7 +122,7 @@
     "uptimeYear": "99.01%",
     "time": 1648,
     "timeDay": 2039,
-    "timeWeek": 1662,
+    "timeWeek": 1703,
     "timeMonth": 1685,
     "timeYear": 1648,
     "dailyMinutesDown": {
