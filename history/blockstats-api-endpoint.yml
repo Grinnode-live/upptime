@@ -1,7 +1,7 @@
 url: https://grinnode.live:8080/api/blockstats
-status: up
-code: 200
-responseTime: 136
-lastUpdated: 2022-06-24T23:05:37.542Z
+status: down
+code: 503
+responseTime: 645
+lastUpdated: 2022-06-25T10:49:43.505Z
 startTime: Thu Mar 10 2022 17:35:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
