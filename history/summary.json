@@ -135,16 +135,16 @@
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
     "icon": "https://favicons.githubusercontent.com/grinnode.live",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
-    "uptime": "98.02%",
-    "uptimeDay": "94.82%",
-    "uptimeWeek": "95.28%",
+    "status": "down",
+    "uptime": "98.03%",
+    "uptimeDay": "95.28%",
+    "uptimeWeek": "95.53%",
     "uptimeMonth": "94.92%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.03%",
     "time": 4672,
-    "timeDay": 4213,
-    "timeWeek": 7027,
-    "timeMonth": 7000,
+    "timeDay": 4525,
+    "timeWeek": 7363,
+    "timeMonth": 6846,
     "timeYear": 4672,
     "dailyMinutesDown": {
       "2022-09-24": 66,
@@ -203,7 +203,7 @@
       "2022-07-16": 40,
       "2022-07-13": 83,
       "2022-07-12": 52,
-      "2022-07-11": 124
+      "2022-07-11": 107
     }
   },
   {
