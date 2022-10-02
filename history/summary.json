@@ -24,7 +24,7 @@
   {
     "name": "peers API endpoint",
     "url": "https://grinnode.live:8080/healthcheck",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "peers-api-endpoint",
     "status": "up",
     "uptime": "98.84%",
@@ -49,7 +49,7 @@
   {
     "name": "healthcheck API endpoint",
     "url": "https://grinnode.live:8080/peers",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "healthcheck-api-endpoint",
     "status": "up",
     "uptime": "98.85%",
@@ -73,7 +73,7 @@
   {
     "name": "agents API endpoint",
     "url": "https://grinnode.live:8080/agents",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "agents-api-endpoint",
     "status": "up",
     "uptime": "98.85%",
@@ -97,7 +97,7 @@
   {
     "name": "healthscore API endpoint",
     "url": "https://grinnode.live:8080/healthscore",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "healthscore-api-endpoint",
     "status": "up",
     "uptime": "98.85%",
@@ -121,7 +121,7 @@
   {
     "name": "peerscountries API endpoint",
     "url": "https://grinnode.live:8080/peerscountries",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "peerscountries-api-endpoint",
     "status": "up",
     "uptime": "98.85%",
@@ -145,14 +145,14 @@
   {
     "name": "walletcheck API endpoint",
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
-    "uptime": "97.53%",
-    "uptimeDay": "90.97%",
+    "status": "down",
+    "uptime": "97.54%",
+    "uptimeDay": "90.94%",
     "uptimeWeek": "80.82%",
     "uptimeMonth": "91.21%",
-    "uptimeYear": "97.53%",
+    "uptimeYear": "97.54%",
     "time": 4701,
     "timeDay": 6280,
     "timeWeek": 6021,
@@ -216,14 +216,13 @@
       "2022-07-24": 68,
       "2022-07-22": 19,
       "2022-07-21": 358,
-      "2022-07-20": 67,
-      "2022-07-18": 27
+      "2022-07-20": 67
     }
   },
   {
     "name": "blockstats API endpoint",
     "url": "https://grinnode.live:8080/api/blockstats",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "blockstats-api-endpoint",
     "status": "up",
     "uptime": "98.85%",
@@ -247,7 +246,7 @@
   {
     "name": "tx count API endpoint",
     "url": "https://grinnode.live:8080/api/txcounts",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "tx-count-api-endpoint",
     "status": "up",
     "uptime": "98.85%",
@@ -271,7 +270,7 @@
   {
     "name": "Owner grinnode API endpoint",
     "url": "https://grinnode.live:3413/v2/owner",
-    "icon": "https://favicons.githubusercontent.com/grinnode.live",
+    "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "owner-grinnode-api-endpoint",
     "status": "up",
     "uptime": "99.45%",
