@@ -147,16 +147,16 @@
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
     "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "97.32%",
-    "uptimeWeek": "93.55%",
-    "uptimeMonth": "89.53%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "93.76%",
+    "uptimeMonth": "89.65%",
     "uptimeYear": "98.88%",
     "time": 5477,
     "timeDay": 3567,
-    "timeWeek": 5908,
-    "timeMonth": 6370,
+    "timeWeek": 5898,
+    "timeMonth": 6309,
     "timeYear": 5477,
     "dailyMinutesDown": {
       "2022-12-20": 38,
@@ -189,7 +189,7 @@
       "2022-11-23": 98,
       "2022-11-22": 130,
       "2022-11-21": 117,
-      "2022-11-20": 77
+      "2022-11-20": 56
     }
   },
   {
