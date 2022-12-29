@@ -1,7 +1,7 @@
 url: https://grinnode.live:3413/v2/owner
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-12-29T13:55:02.148Z
+status: up
+code: 200
+responseTime: 386
+lastUpdated: 2022-12-29T18:48:49.347Z
 startTime: Thu Mar 10 2022 18:36:58 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
