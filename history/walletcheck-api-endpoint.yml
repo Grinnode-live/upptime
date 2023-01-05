@@ -1,7 +1,7 @@
 url: https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-01-05T14:53:12.129Z
+status: up
+code: 200
+responseTime: 11574
+lastUpdated: 2023-01-05T15:12:48.773Z
 startTime: Thu Mar 10 2022 17:35:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
