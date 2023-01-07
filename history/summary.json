@@ -165,17 +165,17 @@
     "slug": "walletcheck-api-endpoint",
     "status": "up",
     "uptime": "98.69%",
-    "uptimeDay": "90.91%",
-    "uptimeWeek": "93.40%",
-    "uptimeMonth": "87.03%",
+    "uptimeDay": "94.27%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "86.98%",
     "uptimeYear": "98.69%",
     "time": 5466,
-    "timeDay": 6099,
+    "timeDay": 6563,
     "timeWeek": 6291,
     "timeMonth": 5514,
     "timeYear": 5466,
     "dailyMinutesDown": {
-      "2023-01-06": 129,
+      "2023-01-06": 118,
       "2023-01-05": 51,
       "2023-01-04": 51,
       "2023-01-03": 76,
@@ -203,7 +203,7 @@
       "2022-12-12": 781,
       "2022-12-11": 230,
       "2022-12-10": 83,
-      "2022-12-09": 97
+      "2022-12-09": 129
     }
   },
   {
