@@ -110,11 +110,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "healthscore-api-endpoint",
     "status": "up",
-    "uptime": "98.90%",
+    "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.90%",
+    "uptimeYear": "98.91%",
     "time": 128,
     "timeDay": 97,
     "timeWeek": 137,
@@ -163,11 +163,11 @@
     "url": "https://grinnode.live:8080/walletcheck/grin1zxwrf5yaxlyps4mpx3n7j9kp4su3gzgpdhfk2sgv56q0prcdlzls9e6e0y",
     "icon": "https://icons.duckduckgo.com/ip3/grinnode.live.ico",
     "slug": "walletcheck-api-endpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "91.43%",
+    "uptimeDay": "91.41%",
     "uptimeWeek": "93.48%",
-    "uptimeMonth": "93.45%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.41%",
     "time": 5815,
     "timeDay": 12867,
@@ -204,7 +204,7 @@
       "2023-01-15": 93,
       "2023-01-14": 42,
       "2023-01-13": 23,
-      "2023-01-10": 37
+      "2023-01-10": 17
     }
   },
   {
